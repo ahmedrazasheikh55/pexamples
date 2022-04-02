@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.new{
+    height: 70px;
+    font-style: italic;
+    background-color: blue;
+    color: aliceblue;
+text-align: center;}
+    .few{
+        background-color: brown;
+        height: 100vh;
+    }

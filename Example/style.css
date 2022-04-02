@@ -1,0 +1,40 @@
+.nav{
+   background-color:  #22A7F0;
+   height: 50px;
+   border-radius: 30px;
+   font-style: italic;
+}
+.nav  li {
+    padding: 10px 0px 0px 0px ;
+    float: left;
+    margin: 20px 5px;
+
+}
+.nav ul{
+    overflow: auto;
+    list-style-type: none;
+}
+.nav li a {
+    padding: 10px 10px;
+    text-decoration: none;
+    color: black;
+}
+.nav li a:hover {
+    background-color: brown;
+    text-decoration: none;
+    color: chartreuse;
+}
+.new{
+    float: right;
+    padding: 7px;
+    margin: 10px  40px;
+}
+.nav input{
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 1px 17px;
+}
+.nav input:hover{ background-color: bisque;
+   
+   
+}
